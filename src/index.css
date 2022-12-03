@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: "Prata", serif;
 }
 
 .header {
@@ -31,10 +32,34 @@ body {
   border-radius: 5px;
   margin-top: 45px;
   margin-left: 40px;
+  margin-right: 40px;
 }
 
 .cards {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-bottom: 45px;
+}
+
+.location > i {
+  gap: 20px;
+  display: flex;
+  margin-top: 64px;
+  font-size: 13px;
+}
+
+.location__google__map {
+  text-decoration: none;
+  color: #918e9b;
+}
+
+.location__name {
+  font-family: "Caveat", cursive;
+  font-size: 25px;
+}
+
+.location__description {
+  max-width: 400px;
+  font-size: 11px;
 }
