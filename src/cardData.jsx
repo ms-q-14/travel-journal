@@ -30,6 +30,6 @@ export default [
     location: "Karachi",
     date: "14 Jun, 2009 - 1 Jul, 2009",
     description:
-      "Karachi is the capital of the Pakistani province of Sindh. Situated on the Arabian Sea, Karachi serves as a transport hub, and is home to Pakistan's two largest seaports, the Port of Karachi and Port Bin Qasim, as well as the busiest airport in Pakistan.",
+      "Karachi is the capital of the Pakistani province of Sindh. Situated on the Arabian Sea, Karachi serves as a transport hub, and is home to Pakistan's two largest seaports.",
   },
 ];
